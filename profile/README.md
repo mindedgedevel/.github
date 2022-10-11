@@ -1,4 +1,4 @@
-![Header](./../github-header-image.png)
+![Header](https://github.com/mindedgedevel/.github/blob/main/github-header-image.png)
 ## Hi there 👋
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=14&pause=1000&color=FDB040&vCenter=true&width=495&height=54&lines=Welcome+to+Mindedge+Studio;Develop+code+of+Mindedge+Innovation)](https://git.io/typing-svg)
 
