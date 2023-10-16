@@ -2,10 +2,9 @@
 ## Hi there 👋
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=14&pause=1000&color=FDB040&vCenter=true&width=495&height=54&lines=Welcome+to+Mindedge+Studio;Develop+code+of+Mindedge+Innovation)](https://git.io/typing-svg)
 
-![GitHub metrics](https://metrics.lecoq.io/mindedgedevel)  
-![Profile views](https://gpvc.arturio.dev/mindedgedevel)  
+![GitHub metrics](https://metrics.lecoq.io/mindedgedevel) 
 <!--
-
+![Profile views](https://gpvc.arturio.dev/mindedgedevel) 
 **Here are some ideas to get you started:**
 
 🙋‍♀️ A short introduction - what is your organization all about?
